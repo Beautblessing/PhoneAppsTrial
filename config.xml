@@ -12,7 +12,7 @@
        Weinre Test app
     </description>
 
-    <author href="http://ibleedcode.blogspot.in/">
+    <author href="http://ibleedcode.blogspot.in/" email= "johb@doe.com">
         Prantik vaghela
     </author>
       <gap:platform name="android" />
